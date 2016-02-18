@@ -3,5 +3,5 @@ use_frameworks!
 
 target 'TwitterJSON' do
     pod 'Alamofire', '~> 3.0'
-    pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+    pod 'SwiftyJSON', '~> 2.3.2'
 end
