@@ -24,7 +24,7 @@
 		27FA62221B70358000467C8A /* TwitterJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27FA62161B70358000467C8A /* TwitterJSON.framework */; };
 		27FA62291B70358000467C8A /* TwitterJSONTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FA62281B70358000467C8A /* TwitterJSONTests.swift */; };
 		27FA62331B70370400467C8A /* TwitterJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FA62321B70370400467C8A /* TwitterJSON.swift */; };
-		760589F3BD2AE6DD1F1D0385 /* Pods_TwitterJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B5E50117913E4A239D4C21 /* Pods_TwitterJSON.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		760589F3BD2AE6DD1F1D0385 /* Pods_TwitterJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69B5E50117913E4A239D4C21 /* Pods_TwitterJSON.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
